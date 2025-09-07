@@ -22,9 +22,9 @@
     // If OneDrive is not Microsoft-operated (e.g. 21Vianet), modify these settings
     // 世纪互联需修改下列参数
     "OAUTH": {
-      "clientId": "78d4dc35-7e46-42c6-9023-2d39314433a5",
-      "clientSecret": "ZudGl-p.m=LMmr3VrKgAyOf-WevB3p50",
-      "redirectUri": "http://localhost/onedrive-login",
+      "clientId": "5453204a-2cb3-4661-9699-4646a8e3c86b",
+      "clientSecret": "bDA8Q~DCBseKnzBOULrgXjwNd7HwDDT6_HucDaz3",
+      "redirectUri": "http://localhost",
       "loginHost": "https://login.microsoftonline.com",
       "oauthUrl": "https://login.microsoftonline.com/common/oauth2/v2.0/",
       "apiHost": "https://graph.microsoft.com",
